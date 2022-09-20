@@ -49,4 +49,10 @@
     {
         component: './404',
     },
+    {
+        path: '/test',
+        name: 'test',
+        icon: 'smile',
+        component: './test/index',
+    },
 ];
